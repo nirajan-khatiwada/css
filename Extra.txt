@@ -1,0 +1,5 @@
+outline
+pseudo element:hover,focus,active
+boxshadow
+opacity
+overflow
